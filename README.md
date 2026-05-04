@@ -1,4 +1,4 @@
-# 🔍 Crime Estimator SP
+#  Crime Estimator SP
 
 Estimador de criminalidade por bairro e município do Estado de São Paulo, baseado nos índices oficiais da SSP-SP (2024/2025).
 
